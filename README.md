@@ -1,1 +1,6 @@
-# DCPL-SLR
+# Deep Configuration Performance Learning: A Systematic Survey and Taxonomy
+> Performance is arguably the most crucial attribute that reflects the behavior of a configurable software system. However, given the increasing scale and complexity of modern software, modeling and predicting how various configurations can impact performance becomes one of the major challenges in software maintenance. As such, performance is often modeled without having a thorough knowledge of the software system, but relying mainly on data, which fits precisely with the purpose of deep learning.
+>
+> In this perspective paper, we conduct a comprehensive review exclusively on the topic of deep learning for performance learning of configurable software, covering 948 searched papers spanning six indexing services, based on which 85 primary papers were extracted and analyzed. Whilst our results reveal some of the key statistics for the practitioners on this research topic, they also disclose several positive trends and potentially problematic phenomena, for which we provide justification and disclose future directions for researchers to pursue. Ultimately, our goal is not to criticize any existing work, but rather spark a dialog that can hopefully exact a more significant growth of this particular research topic through our review and analysis.
+ 
+This repository contains the **raw review results** for the paper.
